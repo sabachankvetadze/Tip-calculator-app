@@ -7,29 +7,22 @@ body {
     flex-direction: column;
     align-items: center;
 }
-
 main {
     background: #FFFFFF;
     box-shadow: 0px 32px 43px rgba(79, 166, 175, 0.200735);
     border-radius: 25px 25px 0px 0px;
     margin-top: 41px;
     padding: 32px 32.5px 32px 32px;
-
-
 }
-
 .logo {
     padding: 50px 144px 0px 144px;
-
 }
-
 .bill {
     font-size: 16px;
     line-height: 24px;
     color: #5E7A7D;
     letter-spacing: 3px;
 }
-
 .button1 {
     border: none;
     width: 300px;
@@ -44,9 +37,7 @@ main {
     align-items: center;
     justify-content: space-between;
     padding: 9px;
-
 }
-
 .select {
     font-family: 'Space Mono';
     font-style: normal;
@@ -55,16 +46,13 @@ main {
     line-height: 24px;
     color: #5E7A7D;
     margin-top: 32px;
-
 }
-
 .inputcontainer {
     margin-top: 16px;
     display: grid;
     grid-template-columns: auto auto;
     gap: 16px
 }
-
 .buttonall {
     font-family: 'Space Mono';
     font-style: normal;
@@ -79,24 +67,21 @@ main {
     border-radius: 5px;
     border: none;
     padding: 8px;
-
-
 }
 
+.active{
+    background-color: #9FE8DF;
+}
 .inputdollar {
     display: flex;
     align-items: center;
     position: relative;
-
 }
-
 .iconperson {
     position: absolute;
     padding: 17px;
 }
-
 .button15 {
-
     width: 146.6311798095703px;
     background: #26C2AE;
     border-radius: 5px;
@@ -108,14 +93,11 @@ main {
     line-height: 36px;
     color: #00474B;
     border: none;
-
 }
-
 .custom {
     background: #F3F9FA;
     border-radius: 5px;
-
-    width: 147.81369018554688px;
+    width: 143px;
     border-radius: 5px;
     font-family: 'Space Mono';
     font-style: normal;
@@ -125,9 +107,7 @@ main {
     text-align: center;
     color: #547878;
     border: none;
-
 }
-
 .people {
     font-family: 'Space Mono';
     font-style: normal;
@@ -137,18 +117,15 @@ main {
     color: #5E7A7D;
     margin-top: 36px;
 }
-
 .man {
     display: flex;
     align-items: center;
     position: relative;
 }
-
 .mansvg {
     margin-left: 17px;
     position: absolute;
 }
-
 .quantity {
     background: #F3F9FA;
     border-radius: 5px;
@@ -163,24 +140,18 @@ main {
     font-size: 24px;
     line-height: 36px;
     color: #00474B;
-
 }
-
 .amount {
-
     width: 312px;
     border-radius: 15px;
     background: #00474B;
     margin-top: 32px;
-
 }
-
 .tipamount {
     display: flex;
     justify-content: space-between;
     padding: 39px 22px 0px 22px;
 }
-
 .tip {
     font-family: 'Space Mono';
     font-style: normal;
@@ -189,9 +160,7 @@ main {
     line-height: 24px;
     color: #FFFFFF;
 }
-
 .person {
-
     font-family: 'Space Mono';
     font-style: normal;
     font-weight: 700;
@@ -199,7 +168,6 @@ main {
     line-height: 19px;
     color: #7F9D9F;
 }
-
 .dollar {
     font-family: 'Space Mono';
     font-style: normal;
@@ -211,9 +179,7 @@ main {
     color: #26C2AE;
     background: #00474B;
     border: none;
-
 }
-
 .dollartwo {
     font-family: 'Space Mono';
     font-style: normal;
@@ -227,14 +193,12 @@ main {
     border: none;
 
 }
-
 .amount2 {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     padding: 25px 22px 0px 22px;
 }
-
 .buttonres {
     background: #26C2AE;
     border-radius: 5px;
@@ -281,9 +245,6 @@ main {
         color: #00474B;
         mix-blend-mode: normal;
 
-
-
-
     }
 
     .buttonall {
@@ -298,7 +259,7 @@ main {
 
     .custom {
         padding: 10px;
-        width: 114px;
+        width: 112px;
     }
 
     .inputdollar {
