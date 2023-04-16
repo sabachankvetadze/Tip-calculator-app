@@ -73,6 +73,4 @@ buttonReset.addEventListener("click", function(){
 
   
 
- if(inputPay.value > 10000 ){
-    inputPay.value = 10000;
- }
+ 
